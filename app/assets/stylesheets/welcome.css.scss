@@ -43,7 +43,7 @@
 }
 
 #callouts {
-    background-image:  url(image_path("callout_background.jpg"));
+    background-image: url(image_path("welcome_banner_image.jpg"));
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top center;
@@ -65,7 +65,7 @@
             margin-bottom: 0;
         }
         p {
-            color: rgba(255, 255, 255, 0.9);
+            color: rgba(255, 255, 255, 10);
         }
     }
 }
@@ -85,3 +85,4 @@
             color: #a7a8a8;
         }
 }
+

@@ -1,6 +1,6 @@
 $dark_gray: #2B2E2E;
 $light_gray: #C0C1C1;
-$green: #080808;
+$green: #529ECC;
 
 @mixin bold_font {
   font-family: 'Dosis', sans-serif;
@@ -73,7 +73,7 @@ header {
     position: absolute;
     top: 0;
     width: 100%;
-    padding:1.75rem 0 ;
+    padding: 1.75rem 0;
     border-bottom: 1.5px solid #376490;
     .header_inner {
         width: 90%;
